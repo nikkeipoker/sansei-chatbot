@@ -1,0 +1,9 @@
+node_modules
+.env
+log.txt
+out.log
+err.log
+*.txt
+debug.js
+run_test.js
+clientes.csv
